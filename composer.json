@@ -1,0 +1,12 @@
+{
+    "name": "maof14/database",
+    "description": "Basic PHP PDO database wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mattias Olsson",
+            "email": "mattias.olsson@hotmail.se"
+        }
+    ],
+    "require": {}
+}
